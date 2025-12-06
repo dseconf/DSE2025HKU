@@ -17,7 +17,7 @@ The repo is organized primarily by lecturers even when they give multiple lectur
 
 | Folder | Lecture | Readings | Slides | Code |
 |:---|:---|:--:|:-:|:-:|
-01_Miller            | 01 | + | + | |
+01_Miller            | 01 | | + | |
 .                    | 02 | + | + | |
 .                    | 05 | + | + | |
 02_Schjerning_nfxp   | 03 | + | + | + |
