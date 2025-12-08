@@ -27,7 +27,7 @@ The repo is organized primarily by lecturers even when they give multiple lectur
 04_Fu                | 07 | | | |
 05_Newey             | 08 | | | |
 06_Rysman            | 09 | | | |
-07_Srisuma           | 11 | | | |
+07_Srisuma           | 11 | + | | |
 08_Iskhakov_egm      | 12 | + | + | + |
 09_Fang              | 13 | | | |
 10_Guo               | 14 | | + | |
