@@ -30,7 +30,7 @@ The repo is organized primarily by lecturers even when they give multiple lectur
 07_Srisuma           | 11 | | | |
 08_Iskhakov_egm      | 12 | + | + | + |
 09_Fang              | 13 | | | |
-10_Guo               | 14 | | | |
+10_Guo               | 14 | | + | |
 11_Ching             | 15 | + | | + |
 12_IRS_games         | 16 | + | | + |
 
