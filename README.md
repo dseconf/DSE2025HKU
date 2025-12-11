@@ -24,7 +24,7 @@ The repo is organized primarily by lecturers even when they give multiple lectur
 03_Aguirregabiria    | 04 | + | + | |
 .                    | 06 | + | + | |
 .                    | 10 | + | + | |
-04_Fu                | 07 | | | |
+04_Fu                | 07 | | + | |
 05_Newey             | 08 | | + | |
 06_Rysman            | 09 | | | |
 07_Srisuma           | 11 | + | | |
