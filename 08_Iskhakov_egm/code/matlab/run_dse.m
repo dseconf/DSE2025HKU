@@ -35,7 +35,7 @@ if 0
   m.sim;
   m.sims
   m.plot('sim wealth0')
-  % m.plot('sim consumption')
+  m.plot('sim consumption')
 end
 %%
 
